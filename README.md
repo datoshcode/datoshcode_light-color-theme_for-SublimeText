@@ -1,10 +1,12 @@
 # datoshcode_light-color-theme_for-SublimeText
 
-DatoshCode_  light-color-theme для текстового редактора Sublime Text 3.
+<h2>DatoshCode_  light-color-theme для текстового редактора Sublime Text 3</h2>
 
-Автор: Андрей Овчаров (Datosh Code)
-Дата разработки: 14.02.2022.
-E-mail: datoshcode@gmail.com
+<ul>
+  <li>Автор: Андрей Овчаров (Datosh Code) </li>
+  <li>Дата разработки: 14.02.2022. </li>
+  <li>E-mail: datoshcode@gmail.com </li>
+</ul>
 
 -- Установка темы --
 
