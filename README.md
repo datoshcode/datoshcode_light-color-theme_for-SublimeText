@@ -25,7 +25,7 @@ To select in the New Bright Thread Editor, you must go to "Preferences" and open
 
 
 (ru)
-<h2>DatoshCode_  light-color-theme для текстового редактора Sublime Text 3</h2>
+<h2>DatoshCode_  light-color-theme для текстового редактора "Sublime Text 3"</h2>
 
 <ul>
   <li>Автор: Андрей Овчаров (Datosh Code) </li>
