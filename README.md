@@ -23,5 +23,7 @@
 
 Для выбора в редакторе новой светлой темы, необходимо перейти в "Preferences" и открыть "Select Color Scheme…" Далее, с перечня предложенного, следует выбрать «Datosh_code_light» и подтвердить нажатием клавиши Enter. После этого, там же в "Preferences", следует открыть "Select Theme…" и выбрать с перечня "Adaptive", также подтвердить свой выбор нажатием клавиши Enter.
 
+<img src="color-theme.jpg" alt="image color theme">
+
 
 
