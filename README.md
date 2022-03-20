@@ -4,7 +4,7 @@
 
 <ul>
   <li>Posted by: Andrei Ovcharov (Datosh Code) </li>
-  <li>Development date: 14.02.2022. </li>
+  <li>Development date: 14.03.2022. </li>
   <li>E-mail: datoshcode@gmail.com </li>
 </ul>
 
@@ -29,7 +29,7 @@ To select in the New Bright Thread Editor, you must go to "Preferences" and open
 
 <ul>
   <li>Автор: Андрей Овчаров (Datosh Code) </li>
-  <li>Дата разработки: 14.02.2022. </li>
+  <li>Дата разработки: 14.03.2022. </li>
   <li>E-mail: datoshcode@gmail.com </li>
 </ul>
 
